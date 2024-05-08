@@ -16,21 +16,21 @@ I'm Cameron. I'm a Front-End developer
 
 ### React
 
-|                 |       |                                               |                                                    |
+
 | --------------- | ----- | --------------------------------------------- | -------------------------------------------------- |
 | **Ravenous**    | React | [View Site](https://ravenous2-3.netlify.app/) | [View Code](https://github.com/camkol/ravenous2)   |
 | **Travel List** | React | [View Site](https://travellist3.netlify.app/) | [View Code](https://github.com/camkol/travel-list) |
 
 ### JavaScript
 
-|                     |            |                                                       |                                                       |
+
 | ------------------- | ---------- | ----------------------------------------------------- | ----------------------------------------------------- |
 | **Dragon Repeller** | JavaScript | [View Site](https://camkol.github.io/DragonRepeller/) | [View Code](https://github.com/camkol/DragonRepeller) |
 | **My Music Player** | JavaScript | [View Site](https://camkol.github.io/MyMusicPlayer/)  | [View Code](https://github.com/camkol/MyMusicPlayer)  |
 
 ### HTML & CSS
 
-|                        |                                                               |                                                               |
+
 | ---------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- |
 | **Calmor Academy**     | [View Site](https://camkol.github.io/capstone_colmar_assets/) | [View Code](https://github.com/camkol/capstone_colmar_assets) |
 | **Chris the Producer** | [View Site](https://camkol.github.io/Chris/)                  | [View Code](https://github.com/camkol/Chris)                  |
